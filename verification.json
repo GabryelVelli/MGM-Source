@@ -1,0 +1,49 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "width": 1440,
+      "overflow": false,
+      "brokenAnchors": [],
+      "whatsapp": true,
+      "images": true,
+      "font": true
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "brokenAnchors": [],
+      "whatsapp": true,
+      "images": true,
+      "font": true
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "brokenAnchors": [],
+      "whatsapp": true,
+      "images": true,
+      "font": true
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "brokenAnchors": [],
+      "whatsapp": true,
+      "images": true,
+      "font": true
+    },
+    {
+      "width": 320,
+      "overflow": false,
+      "brokenAnchors": [],
+      "whatsapp": true,
+      "images": true,
+      "font": true
+    }
+  ],
+  "reduced": {
+    "animations": 0,
+    "hidden": 0
+  }
+}
